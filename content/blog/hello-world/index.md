@@ -190,7 +190,7 @@ Paragraph:
 
     ---------------------------------------
 
-This is [an example](http://example.com "Example") link.
+This is [an example](http://example.com "Example") link just click on it.
 
 [This link](http://example.com) has no title attr.
 
